@@ -1,6 +1,12 @@
 # vuedemo
 
 > A Vue.js project
+```
+dev environment
+
+node 6.9.5
+vue-cli 2.8.2
+```
 
 ## Build Setup
 
